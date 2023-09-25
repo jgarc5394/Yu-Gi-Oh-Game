@@ -1,0 +1,60 @@
+Beaver Warrior
+1200
+1500
+Celtic Guardian
+1400
+1200
+Curse of Dragon
+2000
+1500
+Dark Magician
+2500
+2100
+Feral Imp
+1300
+1400
+Gaia the Fierce Knight
+2300
+2100
+Giant Solider of Stone
+1300
+2000
+Griffore
+1200
+1500
+Mammoth Graveyard
+1200
+800
+Mystical Elf
+800
+2000
+Silver Fang
+1200
+1200
+Summoned Skull
+2500
+1200
+Winged Dragon, Guardian of the Fortress
+1400
+1200
+Kuriboh
+300
+200
+Catapult Turtle
+1000
+2000
+Black Luster Solider
+3000
+2500
+Magician of Black Chaos
+2800
+2600
+Dark Magician Girl
+2000
+1700
+Buster Blader
+2600
+2300
+Gaia the Dragon Champion
+2600
+2100
